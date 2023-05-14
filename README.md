@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaraahAlKalbani
-- 👀 I’m interested in Games
+- 👀 I’m interested in 2D Games
 - 🌱 I’m currently learning Java
 - 📫 reach me at Baraalkalbani@gmail.com 
 
